@@ -1,0 +1,2 @@
+MyName="Денис"
+print (MyName)
